@@ -1,3 +1,5 @@
-function testing2019 (text) {
-	console.log(text);
+let text = {
+	"name": "jose"
 }
+
+text;
